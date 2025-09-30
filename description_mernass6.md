@@ -26,6 +26,7 @@ Borwser response will be if url is http://localhost:3000/ or /about or /contact 
 
 Server is running and listening using server.listen() which start the server and we can open http://localhost:300 in our browser to test it. 
 
-<img src="images/image.png" alt="Screenshot" width="300">
-
-
+<img src="images/home.png" alt="Screenshot" width="600">
+<img src="images/about.png" alt="Screenshot" width="600">
+<img src="images/contact.png" alt="Screenshot" width="600">
+<img src="images/404.png" alt="Screenshot" width="600">
