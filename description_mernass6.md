@@ -25,8 +25,12 @@ Now, if file is found at that path then that .html page will get opened with 200
 Borwser response will be if url is http://localhost:3000/ or /about or /contact then it will open respective .html pages and if there is another url other that above then will show default error page which is 404 error page.
 
 Server is running and listening using server.listen() which start the server and we can open http://localhost:300 in our browser to test it. 
-
+<img src="images/rount1.png" alt="Screenshot" width="500">
 <img src="images/home.png" alt="Screenshot" width="600">
+<img src="images/rount2.png" alt="Screenshot" width="500">
 <img src="images/about.png" alt="Screenshot" width="600">
+<img src="images/rount3.png" alt="Screenshot" width="500">
 <img src="images/contact.png" alt="Screenshot" width="600">
+<img src="images/rount4.png" alt="Screenshot" width="500">
 <img src="images/404.png" alt="Screenshot" width="600">
+
